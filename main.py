@@ -23,6 +23,6 @@ def speedytest():
         st.error(result[1])
         st.warning(result[2])
 
-
+st.title("UTTER FAILURE DONT USE")
 if st.button("Start Speedtest"):
     speedytest()
